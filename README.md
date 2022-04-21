@@ -6,12 +6,9 @@ I would also like it to eventually allow users to delete notes as well and will 
 In this project most of the code was already provided, all that was left was to ad get routes and post routes to allow the local host port to display the pages, to allow the user to
 post new notes to the db.json file, and for the app to get those notes and display them on the page.
 
-## Link: 
-https://lawsonsv.github.io/MyNoteTaker/
-
 ## Heroku Link:
 
-
+https://lawsons-note-taker.herokuapp.com/
 
 ## Screenshot:
 
