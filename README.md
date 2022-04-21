@@ -7,6 +7,7 @@ In this project most of the code was already provided, all that was left was to 
 post new notes to the db.json file, and for the app to get those notes and display them on the page.
 
 ## Link: 
+https://lawsonsv.github.io/MyNoteTaker/
 
 ## Screenshot:
 
