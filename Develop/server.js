@@ -9,5 +9,5 @@ app.use(express.static('public'))
 app.use(routes)
 
 app.listen(PORT, function (){
-    console.log('Connected to PORT');
+    console.log(`Connected to http://localhost:${PORT}`);
 })
